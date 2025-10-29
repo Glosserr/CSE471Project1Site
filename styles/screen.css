@@ -83,10 +83,16 @@ img.profile {
 /* Footer */
 footer {
     margin: 50px auto 0 auto;
-    width: 550px;
+    width: 250px;
     font-size: 0.9em;
     color: #EAE8FF;
     background: #2F7A5F;
     border-radius: 20px;
+    text-align: center;
     box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+
+
+footer p {
+    text-align: center;
 }
