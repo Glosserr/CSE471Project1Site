@@ -1,16 +1,20 @@
+/* General Page Settings */
 body {
     font-family: Helvetica, sans-serif;
     color: #EAE8FF;
-    background: #2D3142;
+    background: #18453B; /* Deep Spartan green */
     padding: 0 40px;
     text-align: center;
+    line-height: 1.6;
 }
 
+/* Navigation Bar */
 nav {
-    margin: 40px auto 0 auto;
-    width: 250px;
+    margin: 40px auto 20px auto;
+    width: 550px; 
     border-radius: 50px;
-    background: #212431;
+    background: #2F7A5F;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
 
 nav ul {
@@ -22,29 +26,67 @@ nav ul {
 
 nav ul li {
     list-style-type: none;
-    margin: 0;
 }
 
 nav ul li a {
     display: inline-block;
-    padding: 20px;
+    padding: 18px 25px;
     color: #EAE8FF;
     text-decoration: none;
     font-size: 1.2em;
+    font-weight: bold;
+    transition: all 0.3s ease;
 }
 
+nav ul li a:hover {
+    color: #B0FF9D; /* subtle hover highlight */
+    transform: scale(1.1);
+}
+
+/* Home Page Title */
 h1 {
-    font-size: 8em;
+    font-size: 6em;
     letter-spacing: -2px;
+    margin-top: 30px;
 }
 
 h1 strong {
-    background: rgb(34,193,195);
-    background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+    background: linear-gradient(45deg, #2F7A5F 0%, #A0A0A0 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    display: inline-block;
 }
 
-img.about {
-    opacity: 0.5;
+/* Page Body Text */
+p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.2em;
+    color: #EAE8FF;
+    text-align: left;
+    background: rgba(0,0,0,0.1);
+    padding: 15px 25px;
+    border-radius: 15px;
+}
+
+/* About Page Profile Image */
+img.profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #B0FF9D;
+    margin: 20px auto;
+    display: block;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+/* Footer */
+footer {
+    margin: 50px auto 0 auto;
+    width: 550px;
+    font-size: 0.9em;
+    color: #EAE8FF;
+    background: #2F7A5F;
+    border-radius: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
 }
