@@ -1,10 +1,9 @@
-# 11ty Boilerplate
+# My Synthie Project
 
-Super basic [11ty](https://www.11ty.dev) starter to get you moving in the right direction and gently introduce some core features like **Passthrough File Copy** for handling images and stylesheets, **layouts**, and templating with [Liquid](https://shopify.github.io/liquid/) and [Markdown](https://www.markdownguide.org).
+Building off of step 5 in Multimedia Class at MSU, I developed a synthetic pipe organ! I also added a few effects like vibrato, and a reverb filter!
 
-## Quickstart
+## Further Info
 
-1. Create a new repository in your own account from this template.
-2. Open the new repository in Codespaces or your own development environment.
-3. Make sure you have Node.js installed (this will be automatic if using Codespaces).
-4. In your terminal type `npx @11ty/eleventy --serve` to build and view the template.
+1. This is a website to present the synth's capabilities, but also allow downloads of the project and materials.
+2. You can find samples of the synth on pages relating to the specific features I made!
+3. This is a solo project, but built off of already provided code curtoesy of MSU's Computer Science Department.
