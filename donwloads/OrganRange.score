@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="100" beatspermeasure="4">
+  <instrument instrument="OrganInstrument">
+    <!-- Measures 1–8: Whimsical upper melody with alternating vibrato -->
+    <note measure="1" beat="1" duration="0.5" note="E5" drawbars="757400000" vibrato="true"/>
+    <note measure="1" beat="2" duration="0.5" note="G5" drawbars="747300000" vibrato="true"/>
+    <note measure="1" beat="3" duration="0.5" note="A5" drawbars="737300000" vibrato="true"/>
+    <note measure="1" beat="4" duration="0.5" note="C6" drawbars="737200000" vibrato="true"/>
+
+    <note measure="2" beat="1" duration="0.25" note="E6" drawbars="747200000" vibrato="true"/>
+    <note measure="2" beat="1.5" duration="0.25" note="D6" drawbars="747200000" vibrato="true"/>
+    <note measure="2" beat="2" duration="0.5" note="C6" drawbars="757300000" vibrato="false"/>
+    <note measure="2" beat="3" duration="0.25" note="B5" drawbars="757300000" vibrato="false"/>
+    <note measure="2" beat="3.5" duration="0.25" note="A5" drawbars="757300000" vibrato="false"/>
+    <note measure="2" beat="4" duration="0.5" note="G5" drawbars="757300000" vibrato="false"/>
+
+    <!-- Sparse low-end depth -->
+    <note measure="3" beat="1" duration="0.5" note="C3" drawbars="747200000" vibrato="false"/>
+
+    <note measure="3" beat="2" duration="0.25" note="E5" drawbars="757200000" vibrato="true"/>
+    <note measure="3" beat="2.5" duration="0.25" note="F5" drawbars="757200000" vibrato="true"/>
+    <note measure="3" beat="3" duration="0.25" note="G5" drawbars="757200000" vibrato="true"/>
+    <note measure="3" beat="3.5" duration="0.25" note="A5" drawbars="757200000" vibrato="true"/>
+    <note measure="3" beat="4" duration="0.5" note="C6" drawbars="757200000" vibrato="true"/>
+
+    <note measure="4" beat="1" duration="0.25" note="D6" drawbars="747200000" vibrato="true"/>
+    <note measure="4" beat="1.5" duration="0.25" note="C6" drawbars="747200000" vibrato="true"/>
+    <note measure="4" beat="2" duration="0.25" note="B5" drawbars="737200000" vibrato="true"/>
+    <note measure="4" beat="2.5" duration="0.25" note="A5" drawbars="737200000" vibrato="true"/>
+    <note measure="4" beat="3" duration="0.25" note="G5" drawbars="737200000" vibrato="true"/>
+    <note measure="4" beat="3.5" duration="0.25" note="E5" drawbars="737200000" vibrato="true"/>
+    <note measure="4" beat="4" duration="0.5" note="C5" drawbars="737200000" vibrato="false"/>
+
+    <!-- Measure 5: held ending chord with vibrato shimmer -->
+    <note measure="5" beat="1" duration="2.0" note="C5" drawbars="757400000" vibrato="true"/>
+    <note measure="5" beat="1" duration="2.0" note="E5" drawbars="757400000" vibrato="true"/>
+    <note measure="5" beat="1" duration="2.0" note="G5" drawbars="757400000" vibrato="true"/>
+  </instrument>
+</score>

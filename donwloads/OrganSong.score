@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="100" beatspermeasure="4">
+   <!-- Melody Organ -->
+   <instrument instrument="OrganInstrument">
+      <!-- Measures 1-16: even mix of high and low notes -->
+      <note measure="1" beat="1" duration="1" note="C4" drawbars="777000000" vibrato="true"/>
+      <note measure="1" beat="2" duration="1" note="E4" drawbars="777000000" vibrato="true"/>
+      <note measure="1" beat="3" duration="1" note="G4" drawbars="777000000" vibrato="true"/>
+      <note measure="1" beat="4" duration="1" note="C5" drawbars="777000000" vibrato="true"/>
+
+      <note measure="2" beat="1" duration="1" note="A3" drawbars="777000000" vibrato="true"/>
+      <note measure="2" beat="2" duration="1" note="C4" drawbars="777000000" vibrato="true"/>
+      <note measure="2" beat="3" duration="1" note="E4" drawbars="777000000" vibrato="true"/>
+      <note measure="2" beat="4" duration="1" note="A4" drawbars="777000000" vibrato="true"/>
+
+      <note measure="3" beat="1" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="3" beat="2" duration="1" note="F4" drawbars="777700000" vibrato="true"/>
+      <note measure="3" beat="3" duration="1" note="A4" drawbars="777700000" vibrato="true"/>
+      <note measure="3" beat="4" duration="1" note="D5" drawbars="777700000" vibrato="true"/>
+
+      <note measure="4" beat="1" duration="1" note="G3" drawbars="777700000" vibrato="true"/>
+      <note measure="4" beat="2" duration="1" note="B3" drawbars="777700000" vibrato="true"/>
+      <note measure="4" beat="3" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="4" beat="4" duration="1" note="G4" drawbars="777700000" vibrato="true"/>
+
+      <!-- Measures 5-8: ascending and descending arpeggios -->
+      <note measure="5" beat="1" duration="0.5" note="C4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="1.5" duration="0.5" note="E4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="2" duration="0.5" note="G4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="2.5" duration="0.5" note="C5" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="3" duration="0.5" note="B4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="3.5" duration="0.5" note="G4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="4" duration="0.5" note="E4" drawbars="777700000" vibrato="true"/>
+      <note measure="5" beat="4.5" duration="0.5" note="C4" drawbars="777700000" vibrato="true"/>
+
+      <note measure="6" beat="1" duration="1" note="F4" drawbars="777700000" vibrato="true"/>
+      <note measure="6" beat="2" duration="1" note="A4" drawbars="777700000" vibrato="true"/>
+      <note measure="6" beat="3" duration="1" note="C5" drawbars="777700000" vibrato="true"/>
+      <note measure="6" beat="4" duration="1" note="F5" drawbars="777700000" vibrato="true"/>
+
+      <note measure="7" beat="1" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="7" beat="2" duration="1" note="F4" drawbars="777700000" vibrato="true"/>
+      <note measure="7" beat="3" duration="1" note="A4" drawbars="777700000" vibrato="true"/>
+      <note measure="7" beat="4" duration="1" note="D5" drawbars="777700000" vibrato="true"/>
+
+      <note measure="8" beat="1" duration="1" note="G3" drawbars="777700000" vibrato="true"/>
+      <note measure="8" beat="2" duration="1" note="B3" drawbars="777700000" vibrato="true"/>
+      <note measure="8" beat="3" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="8" beat="4" duration="1" note="G4" drawbars="777700000" vibrato="true"/>
+
+      <!-- Measures 9-16: dynamic mix of high and low with sustained notes -->
+      <note measure="9" beat="1" duration="2" note="C4" drawbars="777700000" vibrato="true"/>
+      <note measure="9" beat="3" duration="1" note="E5" drawbars="777700000" vibrato="true"/>
+      <note measure="10" beat="1" duration="1" note="G4" drawbars="777700000" vibrato="true"/>
+      <note measure="10" beat="2" duration="1" note="C5" drawbars="777700000" vibrato="true"/>
+      <note measure="10" beat="3" duration="1" note="A3" drawbars="777700000" vibrato="true"/>
+      <note measure="10" beat="4" duration="1" note="F4" drawbars="777700000" vibrato="true"/>
+
+      <note measure="11" beat="1" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="11" beat="2" duration="1" note="F4" drawbars="777700000" vibrato="true"/>
+      <note measure="11" beat="3" duration="1" note="A4" drawbars="777700000" vibrato="true"/>
+      <note measure="11" beat="4" duration="1" note="D5" drawbars="777700000" vibrato="true"/>
+
+      <note measure="12" beat="1" duration="1" note="G3" drawbars="777700000" vibrato="true"/>
+      <note measure="12" beat="2" duration="1" note="B3" drawbars="777700000" vibrato="true"/>
+      <note measure="12" beat="3" duration="1" note="D4" drawbars="777700000" vibrato="true"/>
+      <note measure="12" beat="4" duration="1" note="G4" drawbars="777700000" vibrato="true"/>
+   </instrument>
+
+   <!-- Bass Organ with High Melody Density -->
+   <instrument instrument="OrganInstrument">
+      <!-- Measures 11-28: dense whimsical high melody with sparse bass -->
+      
+      <note measure="11" beat="1" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+      <note measure="11" beat="2" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+      <note measure="11" beat="2.5" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+      <note measure="11" beat="3" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+      <note measure="11" beat="3.5" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+      
+      <note measure="12" beat="1" duration="1" note="G2" drawbars="777200000" vibrato="false"/>
+      <note measure="12" beat="2" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+      <note measure="12" beat="2.5" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+      <note measure="12" beat="3" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+      <note measure="12" beat="3.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+      
+      <note measure="13" beat="1" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+      <note measure="13" beat="2" duration="0.5" note="E5" drawbars="666200000" vibrato="true"/>
+      <note measure="13" beat="2.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+      <note measure="13" beat="3" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+      <note measure="13" beat="3.5" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+
+<!-- Measures 14-27: whimsical high melody with sparse bass -->
+<note measure="14" beat="1" duration="1" note="D2" drawbars="777200000" vibrato="false"/>
+<note measure="14" beat="2" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="14" beat="2.5" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+<note measure="14" beat="3" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="14" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="15" beat="1" duration="1" note="E2" drawbars="777200000" vibrato="false"/>
+<note measure="15" beat="2" duration="0.5" note="A4" drawbars="666200000" vibrato="true"/>
+<note measure="15" beat="2.5" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="15" beat="3" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="15" beat="3.5" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+
+<note measure="16" beat="1" duration="1" note="F2" drawbars="777200000" vibrato="false"/>
+<note measure="16" beat="2" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="16" beat="2.5" duration="0.5" note="A4" drawbars="666200000" vibrato="true"/>
+<note measure="16" beat="3" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="16" beat="3.5" duration="0.5" note="D4" drawbars="666200000" vibrato="true"/>
+
+<note measure="17" beat="1" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+<note measure="17" beat="2" duration="0.5" note="E5" drawbars="666200000" vibrato="true"/>
+<note measure="17" beat="2.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+<note measure="17" beat="3" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+<note measure="17" beat="3.5" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+
+<note measure="18" beat="1" duration="1" note="G2" drawbars="777200000" vibrato="false"/>
+<note measure="18" beat="2" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+<note measure="18" beat="2.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+<note measure="18" beat="3" duration="0.5" note="E5" drawbars="666200000" vibrato="true"/>
+<note measure="18" beat="3.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+
+<note measure="19" beat="1" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+<note measure="19" beat="2" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="19" beat="2.5" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+<note measure="19" beat="3" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="19" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="20" beat="1" duration="1" note="G1" drawbars="777200000" vibrato="false"/>
+<note measure="20" beat="2" duration="0.5" note="A4" drawbars="666200000" vibrato="true"/>
+<note measure="20" beat="2.5" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+<note measure="20" beat="3" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="20" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="21" beat="1" duration="1" note="A1" drawbars="777200000" vibrato="false"/>
+<note measure="21" beat="2" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+<note measure="21" beat="2.5" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+<note measure="21" beat="3" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+<note measure="21" beat="3.5" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+
+<note measure="22" beat="1" duration="1" note="F2" drawbars="777200000" vibrato="false"/>
+<note measure="22" beat="2" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="22" beat="2.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="22" beat="3" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+<note measure="22" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="23" beat="1" duration="1" note="D2" drawbars="777200000" vibrato="false"/>
+<note measure="23" beat="2" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+<note measure="23" beat="2.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+<note measure="23" beat="3" duration="0.5" note="E5" drawbars="666200000" vibrato="true"/>
+<note measure="23" beat="3.5" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+
+<note measure="24" beat="1" duration="1" note="E2" drawbars="777200000" vibrato="false"/>
+<note measure="24" beat="2" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+<note measure="24" beat="2.5" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="24" beat="3" duration="0.5" note="E4" drawbars="666200000" vibrato="true"/>
+<note measure="24" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="25" beat="1" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+<note measure="25" beat="2" duration="0.5" note="D5" drawbars="666200000" vibrato="true"/>
+<note measure="25" beat="2.5" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+<note measure="25" beat="3" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+<note measure="25" beat="3.5" duration="0.5" note="C5" drawbars="666200000" vibrato="true"/>
+
+<note measure="26" beat="1" duration="1" note="G1" drawbars="777200000" vibrato="false"/>
+<note measure="26" beat="2" duration="0.5" note="A4" drawbars="666200000" vibrato="true"/>
+<note measure="26" beat="2.5" duration="0.5" note="B4" drawbars="666200000" vibrato="true"/>
+<note measure="26" beat="3" duration="0.5" note="G4" drawbars="666200000" vibrato="true"/>
+<note measure="26" beat="3.5" duration="0.5" note="F4" drawbars="666200000" vibrato="true"/>
+
+<note measure="27" beat="1" duration="1" note="F1" drawbars="777200000" vibrato="false"/>
+<note measure="27" beat="2" duration="1" note="C4" drawbars="666200000" vibrato="true"/>
+<note measure="27" beat="3" duration="1" note="E4" drawbars="666200000" vibrato="true"/>
+<note measure="27" beat="4" duration="1" note="C2" drawbars="777200000" vibrato="false"/>
+
+      
+      <!-- Continue similar pattern through measure 28, ending on a low C2 -->
+      <note measure="28" beat="1" duration="2" note="C2" drawbars="777200000" vibrato="false"/>
+   </instrument>
+</score>

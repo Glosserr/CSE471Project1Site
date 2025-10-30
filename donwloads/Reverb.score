@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="100" beatspermeasure="4">
+  <instrument instrument="OrganInstrument">
+    <!-- Measures 1–4: Lush, smooth sustained progression -->
+    <note measure="1" beat="1" duration="4" note="C3" drawbars="747200000" vibrato="false"/>
+    <note measure="1" beat="1" duration="4" note="E4" drawbars="747200000" vibrato="false"/>
+    <note measure="1" beat="1" duration="4" note="G4" drawbars="747200000" vibrato="false"/>
+
+    <note measure="2" beat="1" duration="4" note="F3" drawbars="737200000" vibrato="false"/>
+    <note measure="2" beat="1" duration="4" note="A4" drawbars="737200000" vibrato="false"/>
+    <note measure="2" beat="1" duration="4" note="C5" drawbars="737200000" vibrato="false"/>
+
+    <note measure="3" beat="1" duration="4" note="G3" drawbars="727200000" vibrato="false"/>
+    <note measure="3" beat="1" duration="4" note="B4" drawbars="727200000" vibrato="false"/>
+    <note measure="3" beat="1" duration="4" note="D5" drawbars="727200000" vibrato="false"/>
+
+    <note measure="4" beat="1" duration="4" note="C3" drawbars="757200000" vibrato="false"/>
+    <note measure="4" beat="1" duration="4" note="E4" drawbars="757200000" vibrato="false"/>
+    <note measure="4" beat="1" duration="4" note="G4" drawbars="757200000" vibrato="false"/>
+  </instrument>
+</score>
