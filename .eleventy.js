@@ -3,4 +3,7 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
+  eleventyConfig.addPassthroughCopy("audio");
+  eleventyConfig.addPassthroughCopy("organs");
+  eleventyConfig.addPassthroughCopy("reverb");
 };
