@@ -57,6 +57,19 @@ h1 strong {
     display: inline-block;
 }
 
+h2 {
+    font-size: 1.8em;               /* slightly smaller than main titles */
+    color: #C0C0C0;                 /* classic silver */
+    background: linear-gradient(120deg, #E0E0E0, #A9A9A9); /* subtle gradient for depth */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; /* gradient on text only */
+    text-align: center;              /* center above audio or paragraphs */
+    margin: 25px 0 15px 0;           /* spacing above and below */
+    letter-spacing: 1px;
+    font-weight: 600;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
 /* Page Body Text */
 p {
     max-width: 800px;
@@ -78,6 +91,22 @@ img.profile {
     margin: 20px auto;
     display: block;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.download-button {
+    background-color: #2F7A5F;
+    color: #EAE8FF;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.download-button:hover {
+    background-color: #3FAF7A;
+    transform: scale(1.05);
 }
 
 /* Footer */

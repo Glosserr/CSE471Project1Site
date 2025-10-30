@@ -6,4 +6,5 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("audio");
   eleventyConfig.addPassthroughCopy("organs");
   eleventyConfig.addPassthroughCopy("reverb");
+  eleventyConfig.addPassthroughCopy("downloads");
 };
